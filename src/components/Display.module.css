@@ -1,0 +1,10 @@
+.display {
+    margin: 10px;
+    width: 175px;
+    height: 50px;
+    /* font-size: 25; */
+    font-size: 1.3rem;
+    text-align: center;
+    color: #111212;
+    padding-bottom: .5rem;
+  }

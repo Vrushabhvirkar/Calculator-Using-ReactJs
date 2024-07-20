@@ -1,0 +1,19 @@
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: #727b86;
+}
+
+.button {
+  width: 45px;
+  height: 45px;
+  margin: 6px;
+  background: #425062;
+  color: #fff;
+  border: none;
+  border-color:#060606;
+  border-width: 1px ;
+  border-style: solid;
+ 
+}
